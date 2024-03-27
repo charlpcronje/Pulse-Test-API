@@ -1,0 +1,15 @@
+- **app/**
+    - [__init__.py](__init__.py)
+    - [run.py](run.py)
+    - **config/**
+        - [config.py](config/config.py)
+    - **models/**
+        - [user.py](models/user.py)
+        - [device.py](models/device.py)
+        - [__init__.py](models/__init__.py)
+    - **services/**
+        - [firebase_service.py](services/firebase_service.py)
+        - [auth_service.py](services/auth_service.py)
+    - **api/**
+        - [user_api.py](api/user_api.py)
+        - [notification_api.py](api/notification_api.py)
